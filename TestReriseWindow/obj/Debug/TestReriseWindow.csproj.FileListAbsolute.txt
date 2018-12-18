@@ -1,0 +1,16 @@
+c:\users\14923\documents\visual studio 2015\Projects\TestReriseWindow\TestReriseWindow\bin\Debug\TestReriseWindow.exe.config
+c:\users\14923\documents\visual studio 2015\Projects\TestReriseWindow\TestReriseWindow\bin\Debug\TestReriseWindow.exe
+c:\users\14923\documents\visual studio 2015\Projects\TestReriseWindow\TestReriseWindow\bin\Debug\TestReriseWindow.pdb
+c:\users\14923\documents\visual studio 2015\Projects\TestReriseWindow\TestReriseWindow\obj\Debug\TestReriseWindow.csprojResolveAssemblyReference.cache
+c:\users\14923\documents\visual studio 2015\Projects\TestReriseWindow\TestReriseWindow\obj\Debug\MainWindow.g.cs
+c:\users\14923\documents\visual studio 2015\Projects\TestReriseWindow\TestReriseWindow\obj\Debug\RWindow.g.cs
+c:\users\14923\documents\visual studio 2015\Projects\TestReriseWindow\TestReriseWindow\obj\Debug\App.g.cs
+c:\users\14923\documents\visual studio 2015\Projects\TestReriseWindow\TestReriseWindow\obj\Debug\TestReriseWindow_MarkupCompile.cache
+c:\users\14923\documents\visual studio 2015\Projects\TestReriseWindow\TestReriseWindow\obj\Debug\TestReriseWindow_MarkupCompile.lref
+c:\users\14923\documents\visual studio 2015\Projects\TestReriseWindow\TestReriseWindow\obj\Debug\MainWindow.baml
+c:\users\14923\documents\visual studio 2015\Projects\TestReriseWindow\TestReriseWindow\obj\Debug\RWindow.baml
+c:\users\14923\documents\visual studio 2015\Projects\TestReriseWindow\TestReriseWindow\obj\Debug\TestReriseWindow.g.resources
+c:\users\14923\documents\visual studio 2015\Projects\TestReriseWindow\TestReriseWindow\obj\Debug\TestReriseWindow.Properties.Resources.resources
+c:\users\14923\documents\visual studio 2015\Projects\TestReriseWindow\TestReriseWindow\obj\Debug\TestReriseWindow.csproj.GenerateResource.Cache
+c:\users\14923\documents\visual studio 2015\Projects\TestReriseWindow\TestReriseWindow\obj\Debug\TestReriseWindow.exe
+c:\users\14923\documents\visual studio 2015\Projects\TestReriseWindow\TestReriseWindow\obj\Debug\TestReriseWindow.pdb
